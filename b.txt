@@ -1,3 +1,0 @@
-b first line
-
-b second line
